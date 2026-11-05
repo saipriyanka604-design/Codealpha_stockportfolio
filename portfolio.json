@@ -1,0 +1,14 @@
+[
+    {
+        "name": "TCS",
+        "quantity": 20,
+        "buy_price": 3000.0,
+        "current_price": 3500.0
+    },
+    {
+        "name": "MI",
+        "quantity": 10,
+        "buy_price": 4000.0,
+        "current_price": 5000.0
+    }
+]
